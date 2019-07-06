@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\portada UPT\bin\Debug\portada UPT.exe.config
+C:\Users\LENOVO\source\repos\portada UPT\bin\Debug\portada UPT.exe
+C:\Users\LENOVO\source\repos\portada UPT\bin\Debug\portada UPT.pdb
+C:\Users\LENOVO\source\repos\portada UPT\obj\Debug\portada UPT.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\portada UPT\obj\Debug\portada_UPT.Acerca_de.resources
+C:\Users\LENOVO\source\repos\portada UPT\obj\Debug\portada_UPT.PRINCIPAL.resources
+C:\Users\LENOVO\source\repos\portada UPT\obj\Debug\portada_UPT.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\portada UPT\obj\Debug\portada UPT.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\portada UPT\obj\Debug\portada UPT.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\portada UPT\obj\Debug\portada UPT.exe
+C:\Users\LENOVO\source\repos\portada UPT\obj\Debug\portada UPT.pdb
